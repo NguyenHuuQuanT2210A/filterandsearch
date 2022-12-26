@@ -70,7 +70,7 @@ button {
     font-family: 'Karla', sans-serif;
     font-size: 100%;
 }
-button:hover, button:active {
+button:hover, button.active {
     background-color: #00cccc;
     color: #fff;
     cursor: pointer;
